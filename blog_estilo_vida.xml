@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Tendencias y Actualidad</title>
+        <link>https://www.tendenciasactualidad.com</link>
+        <description>Noticias y artículos sobre tecnología, inteligencia artificial y sostenibilidad.</description>
+        <language>es-es</language>
+
+        <item>
+            <title>La Inteligencia Artificial transforma el desarrollo de software</title>
+            <link>https://www.tendenciasactualidad.com/ia/desarrollo-software</link>
+            <description>Las herramientas basadas en IA están acelerando la programación y automatizando tareas complejas.</description>
+            <category>Inteligencia Artificial</category>
+            <pubDate>Mon, 01 Jun 2026 09:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Las energías renovables baten récords de producción</title>
+            <link>https://www.tendenciasactualidad.com/sostenibilidad/energias-renovables</link>
+            <description>La energía solar y eólica continúan aumentando su presencia en la generación eléctrica mundial.</description>
+            <category>Sostenibilidad</category>
+            <pubDate>Tue, 02 Jun 2026 14:30:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Nuevas tendencias en ciberseguridad para empresas</title>
+            <link>https://www.tendenciasactualidad.com/tecnologia/ciberseguridad-empresas</link>
+            <description>Las organizaciones refuerzan sus sistemas de protección frente al aumento de ataques digitales.</description>
+            <category>Tecnología</category>
+            <pubDate>Wed, 03 Jun 2026 11:15:00 GMT</pubDate>
+        </item>
+
+    </channel>
+</rss>
